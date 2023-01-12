@@ -49,3 +49,4 @@ var lengthOfLongestSubstring = function(s) {
 }
 
 console.log(lengthOfLongestSubstring('bbbb'));
+console.log(lengthOfLongestSubstring('c'));
